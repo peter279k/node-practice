@@ -1,0 +1,18 @@
+{
+  "main": "./interface.js",
+  "name": "somepackage",
+  "version": "1.0.0",
+  "description": "test-package",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peter279k"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "peter279k",
+  "license": "MIT"
+}
